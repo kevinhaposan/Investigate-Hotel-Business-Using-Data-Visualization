@@ -1,4 +1,4 @@
-![image](https://github.com/kevinhaposan/Investigate-Hotel-Business-Using-Data-Visualization/assets/156397084/5289c499-ec3f-4ce6-87c8-b06b1dcfcff9)# **Investigate-Hotel-Business-Using-Data-Visualization**
+# **Investigate-Hotel-Business-Using-Data-Visualization**
 
 It's crucial for a company to continuously analyze its business performance. This time around, we will delve deeper into the hospitality industry. Our focus is to understand our customers' behavior when booking hotels and its relation to the cancellation rate of hotel bookings. The insights we gather will be presented in the form of data visualization to make them easier to understand and more persuasive.
 
