@@ -1,4 +1,4 @@
-# **Investigate-Hotel-Business-Using-Data-Visualization**
+![image](https://github.com/kevinhaposan/Investigate-Hotel-Business-Using-Data-Visualization/assets/156397084/fc299c15-817e-4351-aa12-38f9e06b99a0)![image](https://github.com/kevinhaposan/Investigate-Hotel-Business-Using-Data-Visualization/assets/156397084/c93e6d96-959d-4cde-8a91-ba4e150f3a91)# **Investigate-Hotel-Business-Using-Data-Visualization**
 
 It's crucial for a company to continuously analyze its business performance. This time around, we will delve deeper into the hospitality industry. Our focus is to understand our customers' behavior when booking hotels and its relation to the cancellation rate of hotel bookings. The insights we gather will be presented in the form of data visualization to make them easier to understand and more persuasive.
 
@@ -24,6 +24,15 @@ The 'agent' and 'company' columns will be deleted based on the previous reasons.
 - By understanding the consistent reservation patterns from year to year, hotels can plan their capacity and services during those periods effectively.
 
 
-## ****
+## **Analysis of Stay Duration on Hotel Bookings Cancellation Rates**
+![image](https://github.com/kevinhaposan/Investigate-Hotel-Business-Using-Data-Visualization/assets/156397084/27e34ad1-dc08-4532-9170-bd4cc2ca4dae) <br>
+- Overall, it's apparent that the cancellation percentage tends to rise with an increase in the total number of nights stayed in both hotel types.
+- City Hotel exhibits higher cancellation percentages compared to Resort Hotel across most ranges of total nights stayed, suggesting that City Hotel experiences more reservation cancellations.
+- The cancellation percentage at resort hotels on total nights 10, 11, 13, and 14 tends to decrease. This can be further analyzed regarding the factors contributing to this decrease.
 
-## ****
+## **Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate**
+![image](https://github.com/kevinhaposan/Investigate-Hotel-Business-Using-Data-Visualization/assets/156397084/329de374-c743-4649-b42c-1bb83a10bec8) <br>
+- The cancellation percentage at both hotels increases with lead time. This may be due to tentative planning.
+- City Hotel exhibits higher cancellation percentages compared to Resort Hotel across most ranges of lead time, suggesting that City Hotel experiences more reservation cancellations.
+- There is a significant increase in cancellation percentage at Resort Hotel during lead time 390-419 and 450-479. This can be analyzed further regarding the factors contributing to this high increase in reservation cancellations.
+- To prevent customers from cancelling reservations far in advance, hotels can send promotions such as monthly or specific interval service offers.
